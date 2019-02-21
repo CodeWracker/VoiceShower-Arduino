@@ -8,5 +8,4 @@ Rodrigo Ferraz Souza
 Gustavo Koiti Kuwabata
 
 Gabriel Shindy Yamamoto
-
 Isabela Milena de Camargo Morais
